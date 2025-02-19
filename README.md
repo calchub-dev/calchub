@@ -29,6 +29,8 @@ Tools for loan calculations, interest rates, savings, and more.
 ### **2️⃣ Math Calculators**  
 Basic arithmetic, algebra, trigonometry, and more.  
 🔗 [Explore Math Calculators](https://calchub.vercel.app/category/math)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-math)  
 🖼 **Screenshot:**  
 ![Math Calculator](https://your-image-url.com/math.png)  
 
@@ -37,6 +39,8 @@ Basic arithmetic, algebra, trigonometry, and more.
 ### **3️⃣ Health Calculators**  
 Calculate BMI, calorie intake, heart rate, and more.  
 🔗 [Explore Health Calculators](https://calchub.vercel.app/category/health)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-health)  
 🖼 **Screenshot:**  
 ![Health Calculator](https://your-image-url.com/health.png)  
 
@@ -45,6 +49,8 @@ Calculate BMI, calorie intake, heart rate, and more.
 ### **4️⃣ Engineering Calculators**  
 For electrical, mechanical, and civil engineering computations.  
 🔗 [Explore Engineering Calculators](https://calchub.vercel.app/category/engineering)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-engineering)  
 🖼 **Screenshot:**  
 ![Engineering Calculator](https://your-image-url.com/engineering.png)  
 
@@ -53,6 +59,8 @@ For electrical, mechanical, and civil engineering computations.
 ### **5️⃣ Science Calculators**  
 Physics, chemistry, and biology-related tools.  
 🔗 [Explore Science Calculators](https://calchub.vercel.app/category/science)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-science)  
 🖼 **Screenshot:**  
 ![Science Calculator](https://your-image-url.com/science.png)  
 
@@ -60,7 +68,9 @@ Physics, chemistry, and biology-related tools.
 
 ### **6️⃣ Time and Date Calculators**  
 Date difference, time zones, and scheduling tools.  
-🔗 [Explore Time & Date Calculators](https://calchub.vercel.app/category/timedate)  
+🔗 [Explore Time & Date Calculators](https://calchub.vercel.app/category/timedate)
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-timedate)  
 🖼 **Screenshot:**  
 ![Time Calculator](https://your-image-url.com/time.png)  
 
@@ -69,6 +79,8 @@ Date difference, time zones, and scheduling tools.
 ### **7️⃣ Education Calculators**  
 GPA, grade, and academic tools.  
 🔗 [Explore Education Calculators](https://calchub.vercel.app/category/education)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-education)  
 🖼 **Screenshot:**  
 ![Education Calculator](https://your-image-url.com/education.png)  
 
@@ -76,7 +88,9 @@ GPA, grade, and academic tools.
 
 ### **8️⃣ Business and Marketing Calculators**  
 ROI, profit margins, and marketing analytics.  
-🔗 [Explore Business Calculators](https://calchub.vercel.app/category/businessMarketing)  
+🔗 [Explore Business Calculators](https://calchub.vercel.app/category/businessMarketing) 
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-businessMarketing)  
 🖼 **Screenshot:**  
 ![Business Calculator](https://your-image-url.com/business.png)  
 
@@ -85,6 +99,8 @@ ROI, profit margins, and marketing analytics.
 ### **9️⃣ Fun and Entertainment Calculators**  
 Game scores, random generators, and more.  
 🔗 [Explore Fun Calculators](https://calchub.vercel.app/category/funEntertainment)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-funEntertainment)  
 🖼 **Screenshot:**  
 ![Fun Calculator](https://your-image-url.com/fun.png)  
 
@@ -92,7 +108,9 @@ Game scores, random generators, and more.
 
 ### **🔟 Programming and Development Calculators**  
 Convert code values, hash generators, and more.  
-🔗 [Explore Programming Calculators](https://calchub.vercel.app/category/programmingDevelopment)  
+🔗 [Explore Programming Calculators](https://calchub.vercel.app/category/programmingDevelopment) 
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-programmingDevelopment)  
 🖼 **Screenshot:**  
 ![Programming Calculator](https://your-image-url.com/programming.png)  
 
@@ -100,7 +118,9 @@ Convert code values, hash generators, and more.
 
 ### **1️⃣1️⃣ Environment and Energy Calculators**  
 Carbon footprint, energy consumption, and more.  
-🔗 [Explore Environment Calculators](https://calchub.vercel.app/category/environmentEnergy)  
+🔗 [Explore Environment Calculators](https://calchub.vercel.app/category/environmentEnergy) 
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-environmentEnergy)  
 🖼 **Screenshot:**  
 ![Environment Calculator](https://your-image-url.com/environment.png)  
 
@@ -109,6 +129,8 @@ Carbon footprint, energy consumption, and more.
 ### **1️⃣2️⃣ Lifestyle and Daily Use Calculators**  
 Shopping, home expenses, and routine calculations.  
 🔗 [Explore Lifestyle Calculators](https://calchub.vercel.app/category/lifestyleDaily)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-lifestyleDaily)  
 🖼 **Screenshot:**  
 ![Lifestyle Calculator](https://your-image-url.com/lifestyle.png)  
 
@@ -117,6 +139,8 @@ Shopping, home expenses, and routine calculations.
 ### **1️⃣3️⃣ Travel and Transportation Calculators**  
 Fuel costs, travel distance, and expenses.  
 🔗 [Explore Travel Calculators](https://calchub.vercel.app/category/travelTransportation)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-travelTransportation)  
 🖼 **Screenshot:**  
 ![Travel Calculator](https://your-image-url.com/travel.png)  
 
@@ -125,6 +149,8 @@ Fuel costs, travel distance, and expenses.
 ### **1️⃣4️⃣ Sports and Fitness Calculators**  
 Workout tracking, sports statistics, and more.  
 🔗 [Explore Sports Calculators](https://calchub.vercel.app/category/sportsFitness)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-sportsFitness)  
 🖼 **Screenshot:**  
 ![Sports Calculator](https://your-image-url.com/sports.png)  
 
@@ -133,6 +159,8 @@ Workout tracking, sports statistics, and more.
 ### **1️⃣5️⃣ Parenting Calculators**  
 Baby growth, diaper tracking, and parental tools.  
 🔗 [Explore Parenting Calculators](https://calchub.vercel.app/category/parenting)  
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-parenting)  
 🖼 **Screenshot:**  
 ![Parenting Calculator](https://your-image-url.com/parenting.png)  
 
@@ -140,7 +168,9 @@ Baby growth, diaper tracking, and parental tools.
 
 ### **1️⃣6️⃣ Miscellaneous Calculators**  
 Various other useful calculators.  
-🔗 [Explore Miscellaneous Calculators](https://calchub.vercel.app/category/miscellaneous)  
+🔗 [Explore Miscellaneous Calculators](https://calchub.vercel.app/category/miscellaneous) 
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-miscellaneous)  
 🖼 **Screenshot:**  
 ![Misc Calculator](https://your-image-url.com/misc.png)  
 
