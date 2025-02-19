@@ -18,8 +18,9 @@ CalcHub is an intuitive and feature-rich **online calculator** that caters to a 
 
 ### **1️⃣ Financial Calculators**  
 Tools for loan calculations, interest rates, savings, and more.  
-🔗 [Explore Financial Calculators](https://calchub.vercel.app/category/financial) 
-🔗 [More Details](https://github.com/calchub-dev/calchub-financial)  
+🔗 [Explore Financial Calculators](https://calchub.vercel.app/category/financial)
+
+🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-financial)  
 🖼 **Screenshot:**  
 ![Financial Calculator](https://your-image-url.com/financial.png)  
 
