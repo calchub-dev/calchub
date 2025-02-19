@@ -2,14 +2,13 @@
 
 🚀 **Live Demo:** [calchub.vercel.app](https://calchub.vercel.app)
 
-
 CalcHub is an intuitive and feature-rich **online calculator** that caters to a variety of mathematical needs. Whether you need a simple calculator for daily use or an advanced tool for complex computations, CalcHub has it all!
 
 ---
 
 ## **✨ Features at a Glance**
 ✅ **Modern UI & Easy Navigation**  
-✅ **Multiple Calculator Modes (Basic, Scientific, Programmer, etc.)**  
+✅ **Multiple Calculator Categories (Math, Science, Financial, etc.)**  
 ✅ **Mobile-Friendly & Responsive Design**  
 ✅ **Powered by React & Tailwind CSS**  
 
@@ -17,143 +16,131 @@ CalcHub is an intuitive and feature-rich **online calculator** that caters to a 
 
 ## **📂 Categories & Screenshots**
 
-### **1️⃣ Math Calculator**
-Perform mathematical operations like algebra, calculus, geometry, and more.
-
-🔗 [Try Math Calculator](https://calchub.vercel.app/category/math)
-
+### **1️⃣ Financial Calculators**  
+Tools for loan calculations, interest rates, savings, and more.  
+🔗 [Explore Financial Calculators](https://calchub.vercel.app/category/financial)  
 🖼 **Screenshot:**  
-![Math Calculator](https://your-image-url.com/math.png)
+![Financial Calculator](https://your-image-url.com/financial.png)  
 
 ---
 
-### **2️⃣ Science Calculator**
-Includes physics, chemistry, and biology calculations.
-
-🔗 [Try Science Calculator](https://calchub.vercel.app/category/science)
-
+### **2️⃣ Math Calculators**  
+Basic arithmetic, algebra, trigonometry, and more.  
+🔗 [Explore Math Calculators](https://calchub.vercel.app/category/math)  
 🖼 **Screenshot:**  
-![Science Calculator](https://your-image-url.com/science.png)
+![Math Calculator](https://your-image-url.com/math.png)  
 
 ---
 
-### **3️⃣ Financial Calculator**
-Helps with loan calculations, interest rates, and budgeting.
-
-🔗 [Try Financial Calculator](https://calchub.vercel.app/category/financial)
-
+### **3️⃣ Health Calculators**  
+Calculate BMI, calorie intake, heart rate, and more.  
+🔗 [Explore Health Calculators](https://calchub.vercel.app/category/health)  
 🖼 **Screenshot:**  
-![Financial Calculator](https://your-image-url.com/financial.png)
+![Health Calculator](https://your-image-url.com/health.png)  
 
 ---
 
-### **4️⃣ Business Calculator**
-Business-related computations like profit margins and tax calculations.
-
-🔗 [Try Business Calculator](https://calchub.vercel.app/category/business)
-
+### **4️⃣ Engineering Calculators**  
+For electrical, mechanical, and civil engineering computations.  
+🔗 [Explore Engineering Calculators](https://calchub.vercel.app/category/engineering)  
 🖼 **Screenshot:**  
-![Business Calculator](https://your-image-url.com/business.png)
+![Engineering Calculator](https://your-image-url.com/engineering.png)  
 
 ---
 
-### **5️⃣ Health Calculator**
-BMI, calorie intake, and other health-related calculations.
-
-🔗 [Try Health Calculator](https://calchub.vercel.app/category/health)
-
+### **5️⃣ Science Calculators**  
+Physics, chemistry, and biology-related tools.  
+🔗 [Explore Science Calculators](https://calchub.vercel.app/category/science)  
 🖼 **Screenshot:**  
-![Health Calculator](https://your-image-url.com/health.png)
+![Science Calculator](https://your-image-url.com/science.png)  
 
 ---
 
-### **6️⃣ Sports & Fitness Calculator**
-Track fitness metrics like heart rate and calories burned.
-
-🔗 [Try Sports & Fitness Calculator](https://calchub.vercel.app/category/sports-fitness)
-
+### **6️⃣ Time and Date Calculators**  
+Date difference, time zones, and scheduling tools.  
+🔗 [Explore Time & Date Calculators](https://calchub.vercel.app/category/timedate)  
 🖼 **Screenshot:**  
-![Sports & Fitness Calculator](https://your-image-url.com/sports-fitness.png)
+![Time Calculator](https://your-image-url.com/time.png)  
 
 ---
 
-### **7️⃣ Travel Calculator**
-Estimate travel costs, distances, and fuel consumption.
-
-🔗 [Try Travel Calculator](https://calchub.vercel.app/category/travel)
-
+### **7️⃣ Education Calculators**  
+GPA, grade, and academic tools.  
+🔗 [Explore Education Calculators](https://calchub.vercel.app/category/education)  
 🖼 **Screenshot:**  
-![Travel Calculator](https://your-image-url.com/travel.png)
+![Education Calculator](https://your-image-url.com/education.png)  
 
 ---
 
-### **8️⃣ Environment Calculator**
-Carbon footprint and environmental impact assessments.
-
-🔗 [Try Environment Calculator](https://calchub.vercel.app/category/environment)
-
+### **8️⃣ Business and Marketing Calculators**  
+ROI, profit margins, and marketing analytics.  
+🔗 [Explore Business Calculators](https://calchub.vercel.app/category/businessMarketing)  
 🖼 **Screenshot:**  
-![Environment Calculator](https://your-image-url.com/environment.png)
+![Business Calculator](https://your-image-url.com/business.png)  
 
 ---
 
-### **9️⃣ Engineering Calculator**
-Tools for mechanical, electrical, and civil engineering.
-
-🔗 [Try Engineering Calculator](https://calchub.vercel.app/category/engineering)
-
+### **9️⃣ Fun and Entertainment Calculators**  
+Game scores, random generators, and more.  
+🔗 [Explore Fun Calculators](https://calchub.vercel.app/category/funEntertainment)  
 🖼 **Screenshot:**  
-![Engineering Calculator](https://your-image-url.com/engineering.png)
+![Fun Calculator](https://your-image-url.com/fun.png)  
 
 ---
 
-### **🔟 Parenting Calculator**
-Track baby growth, feeding schedules, and parenting resources.
-
-🔗 [Try Parenting Calculator](https://calchub.vercel.app/category/parenting)
-
+### **🔟 Programming and Development Calculators**  
+Convert code values, hash generators, and more.  
+🔗 [Explore Programming Calculators](https://calchub.vercel.app/category/programmingDevelopment)  
 🖼 **Screenshot:**  
-![Parenting Calculator](https://your-image-url.com/parenting.png)
+![Programming Calculator](https://your-image-url.com/programming.png)  
 
 ---
 
-### **1️⃣1️⃣ Fun Calculator**
-Entertainment-based calculations like birthday predictions and games.
-
-🔗 [Try Fun Calculator](https://calchub.vercel.app/category/fun)
-
+### **1️⃣1️⃣ Environment and Energy Calculators**  
+Carbon footprint, energy consumption, and more.  
+🔗 [Explore Environment Calculators](https://calchub.vercel.app/category/environmentEnergy)  
 🖼 **Screenshot:**  
-![Fun Calculator](https://your-image-url.com/fun.png)
+![Environment Calculator](https://your-image-url.com/environment.png)  
 
 ---
 
-### **1️⃣2️⃣ Education Calculator**
-Study aids like grade point average (GPA) and exam score predictors.
-
-🔗 [Try Education Calculator](https://calchub.vercel.app/category/education)
-
+### **1️⃣2️⃣ Lifestyle and Daily Use Calculators**  
+Shopping, home expenses, and routine calculations.  
+🔗 [Explore Lifestyle Calculators](https://calchub.vercel.app/category/lifestyleDaily)  
 🖼 **Screenshot:**  
-![Education Calculator](https://your-image-url.com/education.png)
+![Lifestyle Calculator](https://your-image-url.com/lifestyle.png)  
 
 ---
 
-### **1️⃣3️⃣ Programming Calculator**
-Binary, hexadecimal, and other developer tools.
-
-🔗 [Try Programming Calculator](https://calchub.vercel.app/category/programming)
-
+### **1️⃣3️⃣ Travel and Transportation Calculators**  
+Fuel costs, travel distance, and expenses.  
+🔗 [Explore Travel Calculators](https://calchub.vercel.app/category/travelTransportation)  
 🖼 **Screenshot:**  
-![Programming Calculator](https://your-image-url.com/programming.png)
+![Travel Calculator](https://your-image-url.com/travel.png)  
 
 ---
 
-### **1️⃣4️⃣ Daily Lifestyle Calculator**
-Household expenses, grocery budgeting, and productivity tracking.
-
-🔗 [Try Daily Lifestyle Calculator](https://calchub.vercel.app/category/daily-lifestyle)
-
+### **1️⃣4️⃣ Sports and Fitness Calculators**  
+Workout tracking, sports statistics, and more.  
+🔗 [Explore Sports Calculators](https://calchub.vercel.app/category/sportsFitness)  
 🖼 **Screenshot:**  
-![Daily Lifestyle Calculator](https://your-image-url.com/daily-lifestyle.png)
+![Sports Calculator](https://your-image-url.com/sports.png)  
+
+---
+
+### **1️⃣5️⃣ Parenting Calculators**  
+Baby growth, diaper tracking, and parental tools.  
+🔗 [Explore Parenting Calculators](https://calchub.vercel.app/category/parenting)  
+🖼 **Screenshot:**  
+![Parenting Calculator](https://your-image-url.com/parenting.png)  
+
+---
+
+### **1️⃣6️⃣ Miscellaneous Calculators**  
+Various other useful calculators.  
+🔗 [Explore Miscellaneous Calculators](https://calchub.vercel.app/category/miscellaneous)  
+🖼 **Screenshot:**  
+![Misc Calculator](https://your-image-url.com/misc.png)  
 
 ---
 
@@ -173,9 +160,6 @@ We welcome contributions! If you have ideas, bug fixes, or feature requests, fee
 
 ## **📩 Contact & Support**
 💡 **Have feedback or need help?** Reach out at **[calchub.dev@gmail.com](mailto: calchub.dev@gmail.com)**  
-⭐ **Love CalcHub?** Consider giving it a **star** on GitHub!
+⭐ **Love CalcHub?** Consider giving it a **star** on GitHub! 
 
 ---
-
-Would you like me to generate **badges**, **table of contents**, or a **GIF preview** of CalcHub in action? Let me know!
-
