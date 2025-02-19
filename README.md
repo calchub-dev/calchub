@@ -1,6 +1,6 @@
-# **CalcHub \U0001F522 – Your Ultimate Online Calculator**
+# **CalcHub – Your Ultimate Online Calculator**
 
-🚀 **Live Demo:** [CalcHub.vercel.app](https://CalcHub.vercel.app)  
+🚀 **Live Demo:** [calchub.vercel.app](https://calchub.vercel.app)  
 📌 **GitHub Repository:** [Your Repo Link](#)
 
 CalcHub is an intuitive and feature-rich **online calculator** that caters to a variety of mathematical needs. Whether you need a simple calculator for daily use or an advanced tool for complex computations, CalcHub has it all!
@@ -56,26 +56,6 @@ Easily convert between different units like length, weight, temperature, and mor
 
 ---
 
-## **📥 Installation & Setup**
-
-### **Clone the Repository**
-```bash
-git clone https://github.com/your-username/CalcHub.git
-cd CalcHub
-```
-
-### **Install Dependencies**
-```bash
-npm install
-```
-
-### **Run Locally**
-```bash
-npm run dev
-```
-
----
-
 ## **🤝 Contributing**
 We welcome contributions! If you have ideas, bug fixes, or feature requests, feel free to fork the repo and submit a pull request.
 
@@ -84,7 +64,7 @@ We welcome contributions! If you have ideas, bug fixes, or feature requests, fee
 ---
 
 ## **📩 Contact & Support**
-💡 **Have feedback or need help?** Reach out at **[your-email@example.com](mailto:your-email@example.com)**  
+💡 **Have feedback or need help?** Reach out at **[calchub.dev@gmail.com](mailto: calchub.dev@gmail.com)**  
 ⭐ **Love CalcHub?** Consider giving it a **star** on GitHub!  
 
 ---
