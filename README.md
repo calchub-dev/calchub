@@ -22,7 +22,7 @@ Tools for loan calculations, interest rates, savings, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-financial)  
 🖼 **Screenshot:**  
-![Financial Calculator](https://github.com/calchub-dev/calchub/tree/main/images/financial.png)  
+![Financial Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/financial.png)
 
 ---
 
