@@ -32,7 +32,7 @@ Basic arithmetic, algebra, trigonometry, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-math)  
 🖼 **Screenshot:**  
-![Math Calculator](https://your-image-url.com/math.png)  
+![Math Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/math.png)  
 
 ---
 
@@ -42,7 +42,7 @@ Calculate BMI, calorie intake, heart rate, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-health)  
 🖼 **Screenshot:**  
-![Health Calculator](https://your-image-url.com/health.png)  
+![Health Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/health.png)  
 
 ---
 
@@ -52,7 +52,7 @@ For electrical, mechanical, and civil engineering computations.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-engineering)  
 🖼 **Screenshot:**  
-![Engineering Calculator](https://your-image-url.com/engineering.png)  
+![Engineering Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/engineering.png)  
 
 ---
 
@@ -62,7 +62,7 @@ Physics, chemistry, and biology-related tools.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-science)  
 🖼 **Screenshot:**  
-![Science Calculator](https://your-image-url.com/science.png)  
+![Science Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/science.png)  
 
 ---
 
@@ -72,7 +72,7 @@ Date difference, time zones, and scheduling tools.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-timedate)  
 🖼 **Screenshot:**  
-![Time Calculator](https://your-image-url.com/time.png)  
+![Time Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/time.png)  
 
 ---
 
@@ -82,7 +82,7 @@ GPA, grade, and academic tools.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-education)  
 🖼 **Screenshot:**  
-![Education Calculator](https://your-image-url.com/education.png)  
+![Education Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/education.png)  
 
 ---
 
@@ -92,7 +92,7 @@ ROI, profit margins, and marketing analytics.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-businessMarketing)  
 🖼 **Screenshot:**  
-![Business Calculator](https://your-image-url.com/business.png)  
+![Business Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/business.png)  
 
 ---
 
@@ -102,7 +102,7 @@ Game scores, random generators, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-funEntertainment)  
 🖼 **Screenshot:**  
-![Fun Calculator](https://your-image-url.com/fun.png)  
+![Fun Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/fun.png)  
 
 ---
 
@@ -112,7 +112,7 @@ Convert code values, hash generators, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-programmingDevelopment)  
 🖼 **Screenshot:**  
-![Programming Calculator](https://your-image-url.com/programming.png)  
+![Programming Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/programming.png)  
 
 ---
 
@@ -122,7 +122,7 @@ Carbon footprint, energy consumption, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-environmentEnergy)  
 🖼 **Screenshot:**  
-![Environment Calculator](https://your-image-url.com/environment.png)  
+![Environment Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/environment.png)  
 
 ---
 
@@ -132,7 +132,7 @@ Shopping, home expenses, and routine calculations.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-lifestyleDaily)  
 🖼 **Screenshot:**  
-![Lifestyle Calculator](https://your-image-url.com/lifestyle.png)  
+![Lifestyle Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/lifestyle.png)  
 
 ---
 
@@ -142,7 +142,7 @@ Fuel costs, travel distance, and expenses.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-travelTransportation)  
 🖼 **Screenshot:**  
-![Travel Calculator](https://your-image-url.com/travel.png)  
+![Travel Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/travel.png)  
 
 ---
 
@@ -152,7 +152,7 @@ Workout tracking, sports statistics, and more.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-sportsFitness)  
 🖼 **Screenshot:**  
-![Sports Calculator](https://your-image-url.com/sports.png)  
+![Sports Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/sports.png)  
 
 ---
 
@@ -162,7 +162,7 @@ Baby growth, diaper tracking, and parental tools.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-parenting)  
 🖼 **Screenshot:**  
-![Parenting Calculator](https://your-image-url.com/parenting.png)  
+![Parenting Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/parenting.png)  
 
 ---
 
@@ -172,7 +172,7 @@ Various other useful calculators.
 
 🔗 [GitHub Repository](https://github.com/calchub-dev/calchub-miscellaneous)  
 🖼 **Screenshot:**  
-![Misc Calculator](https://your-image-url.com/misc.png)  
+![Misc Calculator](https://raw.githubusercontent.com/calchub-dev/calchub/main/images/misc.png)  
 
 ---
 
